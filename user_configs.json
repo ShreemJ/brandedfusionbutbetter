@@ -1,0 +1,15 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/ShreemJ/brandedfusionbutbetter.git",
+			"repo_name": "Branded Fusionbutbetter",
+			"repo_path": "./repositories/Branded Fusionbutbetter",
+			"data_path": "",
+			"script_path": "script",
+			"should_update": true,
+			"should_read": true
+		}
+	],
+	"urls": [],
+	"servers": []
+}
